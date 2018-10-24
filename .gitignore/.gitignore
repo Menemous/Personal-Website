@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<head>
+    <meta charset="utf-8"/>
+    <title> Dylan's Projects </title>
+<link rel="stylesheet" href="reset.css" type="text/css">
+<link rel="stylesheet" href="styles.css" type="text/css">
+</head>
+<body>
+    <header>
+        <h1>Dylan's Projects</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li>|</li>
+                <li><a href="aboutme.html">About Me</a></li>
+            </ul>
+        </nav>
+    </header>
+<div id="projects">
+    <!--start of project template-->
+    <div class="project">
+        <img src="img/Quest game.PNG" />
+        <h2>Scratch Quest Game</h2>
+        <p><a href="https://scratch.mit.edu/projects/235623048/">Play</a></p>
+        <p>This quest game features the typical aspects to a normal quest game but it is much more annoying. </p>
+        <div class="clear"></div>
+    </div>
+
+<!--end of project template-->
+    <div class="project">
+        <img src="img/Deadmemes.PNG" />
+        <h2>Dead Memes Graveyard Game</h2>
+        <p><a href="https://scratch.mit.edu/projects/252101457/#fullscreen">Play</a></p>
+        <p>This game is the graveyard of dead memes of the past. You play as Sans Undertale. Your goal is to collect v-bucks across the dead memes-verse in order to obatain the John Wick skin. Collect various artifacts in each level while surviving each boss. Have fun gamer. </p>
+        <div class="clear"></div>
+    </div>
+</div>
+</body>
+
+</html>
